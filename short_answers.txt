@@ -1,0 +1,32 @@
+What is source code?
+source code is the human readable code that that is later compiled and translated to binary or machine code
+What makes computers so “smart”, anyway?
+computers ability to do complex mathematics in milliseconds as well as their literal perfect precision and accuracy
+What is the purpose of a programming language?
+a programming languages purpose is to give a programmer a readable and writeable languge with which they can write the instructions they want to give the computer
+What are 3 examples of programming languages? Why are there so many of these?
+JavaScript, Java, Perl. All of these languages do essentially the same thing, but they all specialize in doing a ccertain type of task specifically well, I would assume this is because the writers of the code had a specific problem in mind they wanted to solve when they created the tool
+What is a variable? Why are variables useful?
+a variable is a container that can hold all different types of data
+What is the difference between a single-equals (=) and a double-equals (==)?
+a single equals assigns a value whereas a double questions their equality
+What is the difference between a double-equals (==) and a triple-equals (===)?
+a double equals will check to see if the values are the same value whereas the triple equals checks that they are the same value AND type
+Why does the developer console exist?
+the developer console is mostly a tool used to check on your code and how it is running. When you console.log something it prints to the console.  
+When we talk about “conditional” statements, what does that mean? What is an example?
+a conditional statement is a step in the process of an algorithm that makes decisions based on the value of the inputs given
+Why would we want FOR or WHILE loops in our source code?
+a FOR and WHILE loop will repeat a step as many times as specified in the loop. this way you don't have to write the same step over and over and you can do soemthing as many times as needed by the situation or for a specific amount given by the user 
+When would you use a WHILE loop, instead of a FOR loop?
+a while loop is better for when you are not sure how long you will need to loop but you know where it will end
+What is a function? Why would we use functions?
+a function is a piece of code that accomplishes a specific task, can be called on to acimplish said task, and can be reused throughout your code
+How many values can you receive back from a function? How many values can you send in?
+only one value comes back from a function, technically. depends on the language but there isnt really a set rule as to how many you can send in. It is more about how many you really want to send in. you don't want to overload your function and make it do too much when you can divvy out tht work to other functions
+What is an array? How many values does it hold?
+An arra is a variable that is designed to hold several variables that are held in the form of a list and can be called upon by their index in the list. There can be as many as you need
+What is a T-diagram and why should I know how to use one?
+A T- diagram is a physical digram that you can use to walk through the flow of your code. It is useful for getting to know step by step how your code works but even more so for helping with complex nested, loops and conditionals. if you can use a t diagram correctly you walk through and algorithm and debug any holes in your logic. 
+What are the two ways to comment JS code? When would you use one versus the other?
+you can comment with a double forward slash as well as a bookended forward slash asterisk combo. The former will comment out any single line of code while the latter can comment out any thing in between them spanning over several lines. 
